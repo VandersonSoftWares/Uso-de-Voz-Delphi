@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/04/17 17:30:59.468.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Administrador\Meus documentos\Teste Voz Delphi 2009\Fontes\Unt_Principal.pas</Transaction>
+    <Transaction>2013/04/17 17:30:59.468.dfm,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Administrador\Meus documentos\Teste Voz Delphi 2009\Fontes\Unt_Principal.dfm</Transaction>
+    <Transaction>2013/04/17 17:31:05.812.dproj,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Administrador\Meus documentos\Teste Voz Delphi 2009\Fontes\Ouvir.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
